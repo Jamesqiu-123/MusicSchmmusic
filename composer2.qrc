@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>Leland.otf</file>
+    </qresource>
+</RCC>
